@@ -1,1 +1,1 @@
-print('Commit')
+print('Push + Commit')
